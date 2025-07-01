@@ -1,15 +1,16 @@
 Packages:
-- openbox        
-- obconf or lxappearance-obconf
-- tint2
-- obsession
-- volumeicon
-- nm-applet
-- ibus
-- rofi
-- nitrogen
-- xfce4-terminal 
-- thunar
+- `openbox`
+- `obconf` or `lxappearance-obconf`
+- `tint2`
+- `obsession`
+- `volumeicon`
+- `nm-applet`
+- `ibus`
+- `rofi`
+- `nitrogen`
+- `xfce4-terminal`
+- `thunar`
+
 
 copy menu configruation to openbox directory
 ```bash
