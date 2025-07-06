@@ -2,7 +2,7 @@ Packages:
 - `openbox`
 - `obconf` or `lxappearance-obconf`
 - `tint2`
-- `obsession`
+- `obsession or lxsession`
 - `volumeicon`
 - `nm-applet`
 - `ibus`
