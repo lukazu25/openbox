@@ -18,13 +18,13 @@
     </item>
     <item label="Text Editor">
       <action name="Execute">
-        <command>gedit</command>
+        <command>mousepad</command>
       </action>
     </item>
     <separator/>
     <item label="Logout">
       <action name="Execute">
-        <command>obsession-logout</command>
+        <command>lxsession-logout</command>
       </action>
     </item>
   </menu>
