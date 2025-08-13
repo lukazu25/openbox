@@ -1,4 +1,4 @@
-@theme "themes/theme"
+@theme "themes/gruvbox-center"
 
 configuration {
     modi: "drun,run";
